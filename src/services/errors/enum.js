@@ -1,0 +1,9 @@
+export const Errors = {
+    RUTA_ERROR: 1,
+    TIPO_INVALIDO: 2,
+    BD_ERROR: 3,
+    ACCESO_DENEGADO: 4,
+    VALIDACION_FALLIDA: 5,
+    RECURSO_NO_ENCONTRADO: 6
+}
+
